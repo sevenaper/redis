@@ -28,7 +28,7 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
-
+#include "ae.h"
 #include <sys/epoll.h>
 
 typedef struct aeApiState {
